@@ -16,4 +16,4 @@ Project Plan – Planning out a C++ software project (e.g., game, app, tool).
 
 Coding Practice Plan – A schedule for practicing problems (e.g., for interviews or contests).
 
-Curriculum Plan – For teaching or self-studying C++ in phases/modules.
+Curriculum Plan – For teaching or self-studying C++ in phases/modules...
