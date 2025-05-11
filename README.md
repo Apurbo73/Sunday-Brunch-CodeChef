@@ -7,3 +7,13 @@ If c is greater than 20, it prints 20; otherwise, it prints the value of c. Esse
 **Execution time** in coding refers to the amount of time a program takes to run from **start to finish**. It's usually measured in **seconds** or **milliseconds** and includes all the operations your code performs, like reading input, doing calculations, and printing output.
 
 In competitive programming or coding contests, execution time is important because each problem has a **time limit** (like 1 second or 0.5 seconds). If your code takes **longer** than that, it gets a **Time Limit Exceeded (TLE)** error — meaning your solution may be correct, but it’s **too slow** to be accepted. So, writing efficient (fast) code is key to passing all test cases.
+
+
+## C++ coding plan:
+Learning Plan – A structured plan to learn C++ from beginner to advanced.
+
+Project Plan – Planning out a C++ software project (e.g., game, app, tool).
+
+Coding Practice Plan – A schedule for practicing problems (e.g., for interviews or contests).
+
+Curriculum Plan – For teaching or self-studying C++ in phases/modules.
